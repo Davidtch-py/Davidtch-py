@@ -1,3 +1,5 @@
+![Portada](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=David%20RM)
+
 # 👋 Soy David Santiago Rodríguez Medina
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
