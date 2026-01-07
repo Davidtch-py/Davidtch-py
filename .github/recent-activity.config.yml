@@ -1,0 +1,7 @@
+# Sample configuration for recent-activity action
+max_activity_count: 5
+commit_message: "Update recent activity"
+activity_types:
+  - PushEvent
+  - PullRequestEvent
+  - IssuesEvent
