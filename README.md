@@ -21,6 +21,12 @@ Backend, bases de datos y ganas de aprender bien las cosas.
 
 ---
 
+## 🖥️ Mi actividad reciente
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ## 🛠️ Tech stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
