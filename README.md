@@ -23,14 +23,14 @@ Backend, bases de datos y ganas de aprender bien las cosas.
 
 ## 🖥️ Mi actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [davidrm-dev/UptcComidas](https://github.com/davidrm-dev/UptcComidas)<br>
-2. ⭐ Starred [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)<br>
-3. ⬆️ Pushed undefined commit(s) to [davidrm-dev/Davidtch-py](https://github.com/davidrm-dev/Davidtch-py)<br>
+1. ⬆️ Pushed undefined commit(s) to [davidrm-dev/pagina](https://github.com/davidrm-dev/pagina)<br>
+2. ⭐ Starred [davidrm-dev/UptcComidas](https://github.com/davidrm-dev/UptcComidas)<br>
+3. ⭐ Starred [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)<br>
 4. ⬆️ Pushed undefined commit(s) to [davidrm-dev/Davidtch-py](https://github.com/davidrm-dev/Davidtch-py)<br>
 5. ⬆️ Pushed undefined commit(s) to [davidrm-dev/Davidtch-py](https://github.com/davidrm-dev/Davidtch-py)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 28th, 2026, 6:39:36 PM
+Last Updated: Wednesday, January 28th, 2026, 7:23:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🛠️ Tech stack
